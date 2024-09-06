@@ -1,5 +1,7 @@
 ##  Procurando por seu pro-player favorito? A gente te ajuda! 
 
+Imersão DEV com o Google Gemini
+
 **O que essa aplicação faz?**
 
 Imagine um buscador mágico que te leva direto para o perfil do seu jogador de e-sports preferido! Com essa ferramenta, você digita o nome do atleta e pronto: todas as informações que você precisa estão ali na sua frente. 
