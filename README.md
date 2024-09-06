@@ -2,6 +2,8 @@
 
 Imersão DEV com o Google Gemini
 
+https://e-sports-brasil.vercel.app/
+
 **O que essa aplicação faz?**
 
 Imagine um buscador mágico que te leva direto para o perfil do seu jogador de e-sports preferido! Com essa ferramenta, você digita o nome do atleta e pronto: todas as informações que você precisa estão ali na sua frente. 
